@@ -45,13 +45,3 @@ modal.addEventListener('close', () => {
   document.body.classList.remove('modal-open');
   opener?.focus();
 });
-document.querySelectorAll('[data-video]').forEach(button => {
-  button.addEventListener('click', () => {
-    const iframe = document.createElement('iframe');
-    iframe.src = `https://player.safevideo.com/${button.dataset.video}`;
-    iframe.title = button.getAttribute('aria-label');
-    iframe.allow = 'fullscreen; picture-in-picture; encrypted-media';
-    iframe.allowFullscreen = true;
-    button.replaceWith(iframe);
-  }, {once:true});
-});

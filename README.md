@@ -19,4 +19,8 @@ Google Analytics `G-98TJFWXW7C` preservado. Sem Chatfuel ou Meta Pixel/CAPI no p
 
 ## Imagens e depoimentos
 
-Foto existente `public/hero_monza.webp` (1672 × 941, cerca de 49 KB), exibida inteira e com prioridade de carregamento. Os três players SafeVideo vêm da página Gol; são identificados como relatos sobre outros treinamentos, não sobre o Monza. Cada player só é carregado ao clicar.
+Foto existente `public/hero_monza.webp` (1672 × 941, cerca de 49 KB), exibida inteira e com prioridade de carregamento. Os três players SafeVideo vêm da página Gol; são identificados como relatos sobre outros treinamentos, não sobre o Monza. Os players aparecem diretamente na seção, com `loading="lazy"`.
+
+## Refinamento visual
+
+Faixa de identificação do Monza Tubarão com imagem ilustrativa gerada por IA, otimizada em `public/monza-tubarao.webp`. Sem indicação de novos modelos cobertos. Hero mais compacto, módulos numerados e oferta com maior contraste.
