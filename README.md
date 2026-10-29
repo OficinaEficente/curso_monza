@@ -15,7 +15,7 @@ Cloudflare: projeto `curso-monza`, assets em `public`, deploy `npx wrangler depl
 
 Todos os botões de inscrição abrem um dialog acessível. O script AtendeIA é carregado uma única vez, na primeira abertura. Sua configuração oficial determina o checkout, sem fallback para outro produto. Consulta GET em 29/10/2026 com origem `https://monza.oficinaeficiente.com.br`: formulário “Formulário do site do Monza”, redirecionamento `https://chk.eduzz.com/60E2KQ3BW3`. Nenhum cadastro ou compra foi enviado na validação. Verificar a liberação da origem caso seja usado outro domínio.
 
-Google Analytics `G-98TJFWXW7C` preservado. Sem Chatfuel ou Meta Pixel/CAPI no projeto atual. Preço: R$ 97,00, sem parcelamento anunciado.
+Google Analytics `G-98TJFWXW7C` preservado. Sem Chatfuel ou Meta Pixel/CAPI no projeto atual. Preço: R$ 89,00 à vista ou até 12x de R$ 9,20 com juros, conforme as opções do checkout fornecidas pelo usuário.
 
 ## Imagens e depoimentos
 

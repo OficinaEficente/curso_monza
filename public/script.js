@@ -30,7 +30,7 @@ document.querySelectorAll('[data-enroll]').forEach(button => {
     document.body.classList.add('modal-open');
     loadForm();
     if (typeof window.gtag === 'function') window.gtag('event', 'open_enrollment_form', {
-      event_label: button.dataset.label, currency: 'BRL', value: 97,
+      event_label: button.dataset.label, currency: 'BRL', value: 89,
       content_name: 'Reparo da Caixa de Direção Monza DHB'
     });
   });
